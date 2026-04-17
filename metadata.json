@@ -1,0 +1,8 @@
+{
+  "name": "مرايا - Mirror Project",
+  "description": "An interactive AI mirror that provides fashion advice, weather-based outfit suggestions, and motivational support in Arabic.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
